@@ -1,0 +1,25 @@
+.img corgan {
+  width: 300px;
+}
+.img covers {
+  width:300px
+}
+body {
+  font-family:Arial, Verdana, sans-serif;
+  color:#663333;}
+  h1{
+    background-color: #efefef;
+    padding: 10px;}
+  Table{
+    width: 600px;}
+    th,td{
+      padding: 7px 10px 10px 10px;}
+      th{
+        text-transform: uppercase;
+        letter-spacing: 0.lem;
+        font-size: 90%;
+        border-bottom: 2px solid #CC3300;
+        border-top: 1px solid #999999;
+        text-align:left;}
+        tr.even{
+          background-color:#666666;}
